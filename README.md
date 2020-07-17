@@ -1,7 +1,7 @@
 # Water Plant
 The general objective of this project is to carry out an automated irrigation through the NodeMcu ESP8266 microcontroller, and to use an internet and the MQTT protocol to generate data and publish on a page on the [ThingSpeak](https://thingspeak.com/).
 
-## We recommand read [peper](paper.pdf)
+## We recommand read [paper](paper.pdf)
 
 ### For this project, we using: 
  - [NodeMCU ESP8266](https://www.espressif.com/en/products/socs/esp8266/overview)
